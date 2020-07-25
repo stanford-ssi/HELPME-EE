@@ -1,0 +1,20 @@
+Added Component: Designator=J8(SMA_SAMTEC_SMA-J-P-X-RA-TH1)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "SAM8856-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U10(RFM-22)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ8_SIG Pin=J8-SIG
+Added Pin To Net: NetName=GND Pin=U10-1
+Added Pin To Net: NetName=MISO Pin=U10-2
+Added Pin To Net: NetName=MOSI Pin=U10-3
+Added Pin To Net: NetName=SCK Pin=U10-4
+Added Pin To Net: NetName=GND Pin=U10-8
+Added Pin To Net: NetName=NetJ8_SIG Pin=U10-9
+Added Pin To Net: NetName=GND Pin=U10-10
+Added Pin To Net: NetName=DIO3 Pin=U10-11
+Added Pin To Net: NetName=GND Pin=U10-13
+Added Pin To Net: NetName=DIO1 Pin=U10-15
+Added Pin To Net: NetName=BUSY Pin=U10-16
+Added Member To Class: ClassName=HELPME Member=Component J8 SMA_SAMTEC_TH_RA
+Added Member To Class: ClassName=HELPME Member=Component U10 RFM_Module
